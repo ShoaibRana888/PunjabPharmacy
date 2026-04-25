@@ -1,6 +1,6 @@
 const stats = [
   { value: "10+", label: "Years of Service" },
-  { value: "500+", label: "Products in Stock" },
+  { value: "5000+", label: "Products in Stock" },
   { value: "1000s", label: "Happy Customers" },
   { value: "24/7", label: "Emergency Contact" },
 ];
