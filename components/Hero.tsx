@@ -7,7 +7,7 @@ export default function Hero() {
             DHA Phase 5, Lahore
           </span>
           <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 dark:text-white leading-tight mb-3">
-            PUNJAB <span className="text-green-600">PHARMACY</span>
+            PUNJAB PHARMACY
           </h1>
           <p className="text-green-600 font-bold text-base mb-6 tracking-widest uppercase">
             Feel Well, Live Better
