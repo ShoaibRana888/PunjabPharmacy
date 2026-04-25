@@ -9,7 +9,7 @@ export default function Hero() {
           <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 dark:text-white leading-tight mb-3">
             PUNJAB <span className="text-green-600">PHARMACY</span>
           </h1>
-          <p className="text-blue-800 dark:text-blue-400 font-bold text-base mb-6 tracking-widest uppercase">
+          <p className="text-green-600 font-bold text-base mb-6 tracking-widest uppercase">
             Feel Well, Live Better
           </p>
           <p className="text-gray-500 dark:text-gray-400 text-lg mb-8 leading-relaxed">

@@ -5,16 +5,8 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="grid sm:grid-cols-3 gap-8 mb-8">
           <div>
-            <div className="flex items-center gap-2 mb-2">
-              <span className="bg-blue-800 text-white rounded-lg p-1.5">
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                    d="M19 11H13V5a1 1 0 00-2 0v6H5a1 1 0 000 2h6v6a1 1 0 002 0v-6h6a1 1 0 000-2z" />
-                </svg>
-              </span>
-              <span className="text-white font-extrabold tracking-wide">
-                PUNJAB <span className="text-green-500">PHARMACY</span>
-              </span>
+            <div className="flex items-center mb-2">
+              <span className="text-white font-extrabold tracking-wide">PUNJAB PHARMACY</span>
             </div>
             <p className="text-gray-500 text-xs font-semibold tracking-widest uppercase mb-3">
               Feel Well, Live Better

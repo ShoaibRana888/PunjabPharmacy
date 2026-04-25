@@ -14,17 +14,8 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 inset-x-0 z-50 bg-white dark:bg-gray-900 border-b border-gray-100 dark:border-gray-800 shadow-sm">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
-        <a href="#" className="flex items-center gap-2">
-          <span className="bg-blue-800 text-white rounded-lg p-1.5">
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                d="M19 11H13V5a1 1 0 00-2 0v6H5a1 1 0 000 2h6v6a1 1 0 002 0v-6h6a1 1 0 000-2z" />
-            </svg>
-          </span>
-          <div className="leading-tight">
-            <span className="font-extrabold text-blue-900 dark:text-white text-lg tracking-wide">PUNJAB </span>
-            <span className="font-extrabold text-green-600 text-lg tracking-wide">PHARMACY</span>
-          </div>
+        <a href="#" className="flex items-center">
+          <span className="font-extrabold text-gray-900 dark:text-white text-lg tracking-wide">PUNJAB PHARMACY</span>
         </a>
 
         <div className="hidden md:flex items-center gap-6">
