@@ -8,7 +8,7 @@ export default function Footer() {
             <div className="flex items-center mb-2">
               <span className="text-white font-extrabold tracking-wide">PUNJAB PHARMACY</span>
             </div>
-            <p className="text-gray-500 text-xs font-semibold tracking-widest uppercase mb-3">
+            <p className="text-green-500 text-xs font-semibold tracking-widest uppercase mb-3">
               Feel Well, Live Better
             </p>
             <p className="text-sm leading-relaxed">
