@@ -6,7 +6,7 @@ export default function Footer() {
         <div className="grid sm:grid-cols-3 gap-8 mb-8">
           <div>
             <div className="flex items-center mb-2">
-              <span className="text-white font-extrabold tracking-wide">PUNJAB PHARMACY</span>
+              <span className="text-white font-extrabold tracking-wide">Punjab Pharmacy DHA Phase 5</span>
             </div>
             <p className="text-green-500 text-xs font-semibold tracking-widest uppercase mb-3">
               Feel Well, Live Better

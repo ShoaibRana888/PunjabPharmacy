@@ -15,7 +15,7 @@ export default function Navbar() {
     <nav className="fixed top-0 inset-x-0 z-50 bg-white dark:bg-gray-900 border-b border-gray-100 dark:border-gray-800 shadow-sm">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
         <a href="#" className="flex items-center">
-          <span className="font-extrabold text-gray-900 dark:text-white text-lg tracking-wide">PUNJAB PHARMACY</span>
+          <span className="font-extrabold text-gray-900 dark:text-white text-lg tracking-wide">Punjab Pharmacy DHA Phase 5</span>
         </a>
 
         <div className="hidden md:flex items-center gap-6">

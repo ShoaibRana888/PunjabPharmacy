@@ -3,12 +3,12 @@ export default function Hero() {
     <section className="pt-16 min-h-screen bg-white dark:bg-gray-900 flex items-center">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-24 grid md:grid-cols-2 gap-16 items-center">
         <div>
-          <span className="inline-block bg-blue-50 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 text-sm font-semibold px-3 py-1 rounded-full mb-5 border border-blue-100 dark:border-blue-800">
-            DHA Phase 5, Lahore
-          </span>
-          <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 dark:text-white leading-tight mb-3">
+          <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 dark:text-white leading-tight mb-1">
             PUNJAB PHARMACY
           </h1>
+          <p className="text-gray-500 dark:text-gray-400 font-semibold text-lg mb-4">
+            DHA Phase 5, Lahore
+          </p>
           <p className="text-green-600 font-bold text-base mb-6 tracking-widest uppercase">
             Feel Well, Live Better
           </p>
